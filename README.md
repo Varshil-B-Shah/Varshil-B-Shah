@@ -74,52 +74,12 @@ Welcome to my GitHub profile! I'm passionate about building scalable web applica
 
 <div align="center">
   
-![GitHub Stats](./profile/stats.svg)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=Varshil-B-Shah&show_icons=true&theme=github_dark)
 
-![GitHub Streak](./profile/streak.svg)
+![GitHub Streak](https://github-readme-stats-fast.vercel.app/api/streak?username=Varshil-B-Shah&theme=github_dark)
 
-![Top Languages](./profile/top-langs.svg)
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-<div align="center">
-  
-![](https://github-profile-trophy.vercel.app/?username=Varshil-B-Shah&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Varshil-B-Shah&layout=compact&theme=github_dark)
 
 </div>
 
 ---
-
-## ✍️ Random Dev Quote
-<div align="center">
-  
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-</div>
-
----
-
-## 🔝 Top Contributed Repo
-<div align="center">
-  
-![](https://github-contributor-stats.vercel.app/api?username=Varshil-B-Shah&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-</div>
-
----
-
-<div align="center">
-  
-[![](https://visitcount.itsvg.in/api?id=Varshil-B-Shah&icon=0&color=0)](https://visitcount.itsvg.in)
-
-### 💬 Let's Connect!
-Feel free to reach out for collaborations or just a friendly chat about tech!
-
-</div>
-
----
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
