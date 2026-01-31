@@ -12,8 +12,7 @@ Welcome to my GitHub profile! I'm passionate about building scalable web applica
 - 🌱 I'm constantly learning and exploring new frameworks and tools
 - 💡 I love solving complex problems and building user-centric solutions
 - 🤝 I'm open to collaborating on interesting projects
-- 📫 How to reach me: [Your Email or Social Links]
-
+  
 ---
 
 ## 💻 Tech Stack:
